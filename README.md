@@ -2,6 +2,14 @@
 
 # Key Skills: Python, Open CV, Knowledge of Raspberry Pi.
 
+#  Trained model on 5K+ positive & 7K+ negative images, achieving a 74% efficiency in mask detection.
+
+# Raspberry Pi (4 Model B) is used for processing & controlling the access of the gate along with relay.
+
+# The gate opens if face masks are detected; otherwise, it remains closed.
+
+# Detail Description ->
+
 The purpose of the "Gate Access Control with Mask Detection" project is to create an intelligent system using Python, OpenCV, and Raspberry Pi.
 The system is designed to enhance safety by automatically controlling gate access based on the detection of face masks.
 It achieves this by training a model on a dataset of positive and negative images, allowing the gate to open only when face masks are detected. 
