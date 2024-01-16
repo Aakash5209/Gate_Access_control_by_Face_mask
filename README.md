@@ -1,4 +1,4 @@
-# Gate Access Control using Mask Detection | Solo Project | Sept. 2, 2021 – Nov. 15, 2021 
+# Gate Access Control using Mask Detection | Sept. 2, 2021 – Nov. 15, 2021 
 
 # Key Skills: Python, Open CV, Knowledge of Raspberry Pi.
 
